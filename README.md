@@ -1,5 +1,5 @@
 LOAN MANAGEMENT SYSTEM
-
+![image_alt](https://github.com/sivaharitha-s/loan_management_system/blob/8e6fd14cde902ff9ad79da28863d24768e979ec7/Screenshot%202024-12-30%20173008.png)
 
 This project is a Loan Management System that I created using Python and SQL. It helps manage loan records by allowing users to add, update, delete, and view loan information. I used Tkinter to build the graphical interface and MySQL to store the data.
 
